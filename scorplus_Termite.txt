@@ -1,5 +1,5 @@
 [colors]
-#Gray
+
 # special
 foreground      = #93a1a1
 foreground_bold = #93a1a1
@@ -35,8 +35,5 @@ color6  = #2aa154
 color14 = #2aa154
 
 # white
-color7  = #93a1a1
-color15 = #ffffff
-
-colorBD = #ffffff
-
+color7  = #cccccc
+color15 = #cccccc
